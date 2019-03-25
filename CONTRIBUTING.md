@@ -15,6 +15,7 @@ There are many ways you can help us make this project better. Every repository i
 - **documentation-needed**: copy/paste from stack overflow
 - **bug-high-priority**: termites
 - **bug-low-priority**: mothra
-- **help-wanted**: apply within, bring pizza
+- **help-wanted**: apply within
+- **sloths-only**: just what it sounds like
 
 You can also help by translating documentation and reviewing open pull requests.
