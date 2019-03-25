@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This app will blow you away.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Makes tacos out of thin air.
+* Turns cats into dogs.
+* Turns dogs back into cats.
+* Miniature rubber duckies.
 
 ## Getting started
 
